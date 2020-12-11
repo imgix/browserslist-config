@@ -5,7 +5,7 @@
 A [shareable config](https://github.com/browserslist/browserslist#shareable-configs) for Browserslist used by the [imgix SDK](https://docs.imgix.com/libraries).
 
 [![NPM Version](https://img.shields.io/npm/v/@imgix/browserslist-config)](https://www.npmjs.com/package/@imgix/browserslist-config)
-[![License](https://img.shields.io/npm/l/@imgix/browserslist-config)](https://github.com/imgix/browserslist-config/blob/main/LICENSE.md)
+[![License](https://img.shields.io/github/license/imgix/browserslist-config)](https://github.com/imgix/browserslist-config/blob/main/LICENSE.md)
 
 ---
 
